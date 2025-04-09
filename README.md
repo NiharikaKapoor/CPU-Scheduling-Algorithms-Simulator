@@ -18,9 +18,7 @@ The **CPU Scheduling Simulator** is a tool designed to simulate and analyze vari
    Preemptive version of SPN.
 5. **Highest Response Ratio Next (HRRN)**  
    Non-preemptive scheduling based on the response ratio.
-6. **Feedback Queue (FB-1, FB-2i)**  
-   Multi-level feedback queue with fixed and increasing quantum.
-7. **Aging**  
+6. **Aging**  
    Scheduling that increases process priority over time to prevent starvation.
 
 ### Key Metrics
